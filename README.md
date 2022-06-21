@@ -15,5 +15,7 @@ https://laravel-workerman.iwnweb.com
 
 [![Sponsor me](https://github.com/mouyong/mouyong/blob/master/sponsor-me-button-s.svg?raw=true)](https://github.com/sponsors/mouyong)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mouyong&theme=github)
+
 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
