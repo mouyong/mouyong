@@ -17,7 +17,6 @@ https://laravel-workerman.iwnweb.com
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mouyong&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mouyong&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mouyong&theme=github)
 
 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
