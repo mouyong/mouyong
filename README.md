@@ -4,9 +4,7 @@
 
 🇨🇳 Shenzhen,China・🕹Web developer
 
-https://blog.iwnweb.com
-
-https://laravel-workerman.iwnweb.com
+https://plugins-world.cn
 
 如果你喜欢我的项目并想支持我，[点击这里 :heart:](https://github.com/sponsors/mouyong)
 
