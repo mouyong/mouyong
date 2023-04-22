@@ -6,7 +6,7 @@
 
 https://plugins-world.cn
 
-如果你喜欢我的项目并想支持我，[点击这里 :heart:](https://afdian.net/a/mouyong)
+如果你喜欢我的项目并想支持我，<a href="https://afdian.net/a/afdian">< img  src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.jpg" alt=""></a >。
 
 <!-- ![](https://gitwar.herokuapp.com/badge?username=mouyong&style=for-the-badge) -->
 
