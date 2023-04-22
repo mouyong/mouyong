@@ -6,7 +6,7 @@
 
 https://plugins-world.cn
 
-如果你喜欢我的项目并想支持我，[点击这里 :heart:](https://github.com/sponsors/mouyong)
+如果你喜欢我的项目并想支持我，[点击这里 :heart:](https://afdian.net/a/mouyong)
 
 <!-- ![](https://gitwar.herokuapp.com/badge?username=mouyong&style=for-the-badge) -->
 
